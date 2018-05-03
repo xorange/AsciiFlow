@@ -1,3 +1,5 @@
+# Original Readme
+
 this is a python project, which draw chart using ascii char.
 
 README.MD     	readme file
@@ -30,4 +32,10 @@ below is a example:
                       |   |                                                     
                       |   |                                                     
                       |   |                                                     
-                      +---+                                                     
+                      +---+                                         
+
+# Fork
+
+This fork ports the original code to python3, i.e.:
+code2/ contains python2 compatible code
+code3/ contains python3 compatible code
